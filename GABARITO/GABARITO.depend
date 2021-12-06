@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638746613 source:c:\users\acer\desktop\fatec\2 semestre\linguagem de programação\avaliação p2\gabarito\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
