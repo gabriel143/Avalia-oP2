@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638757401 source:c:\users\acer\desktop\fatec\2 semestre\linguagem de programação\avaliação p2\cnpj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
